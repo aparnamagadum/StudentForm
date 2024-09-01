@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 40%;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    display: flex;
+    gap: 20px;
+}
+input{
+    height: 20px;
+}
+button{
+    padding: 10px 20px;
+}
+.flex-box{
+  display: flex;
+  gap:20px;
+}
